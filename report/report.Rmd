@@ -44,15 +44,15 @@ The values needed to come up with the fitted linear model are beta coefficients.
 We first display the Histogram of Sales and of TV Advertising budget, derived from the Advitising.csv file. 
 
 
-![Histogram of Sales](images/histogram-sales.png)  
+![Histogram of Sales](../images/histogram-sales.png)  
 
 
 
-![Histogram of TV Advertising Budget](images/histogram-tv.png)  
+![Histogram of TV Advertising Budget](../images/histogram-tv.png)  
 
 Next, we will make a Scatterplot of all observations in the dataset along with the fitted regression line going through the data clutter 
 
-![Scatterplot of all observations and fitted regression line](images/scatterplot-tv-sales.png)
+![Scatterplot of all observations and fitted regression line](../images/scatterplot-tv-sales.png)
 
 
 Visualizations displayed below are the results of the simple regression model fitted onto the Advertising data set.
